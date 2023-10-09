@@ -87,11 +87,9 @@ public class Main {
                     {-4, -5, -6, 10}
             };
 
-            // Get the number of rows and columns
-            int rows = matrix.length;
+                        int rows = matrix.length;
             int cols = matrix[0].length;
 
-            // Initialize a variable to count negative elements
             negativeCount = 0;
             sum1 = 0;
             // Iterate through the matrix to count negative elements below the main diagonal
