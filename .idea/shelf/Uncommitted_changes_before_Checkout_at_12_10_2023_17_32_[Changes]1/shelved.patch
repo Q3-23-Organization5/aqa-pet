@@ -1,0 +1,167 @@
+Index: src/homework6/Calculator.java
+===================================================================
+diff --git a/src/homework6/Calculator.java b/src/homework6/Calculator.java
+new file mode 100644
+--- /dev/null	
++++ b/src/homework6/Calculator.java	
+@@ -0,0 +1,24 @@
++package homework6;
++
++public class Calculator {
++    //    int num1, num2;
++    public void sum(int num1, int num2) {
++        int sumResult = num1 + num2;
++        System.out.println("Result of adding is: " + sumResult);
++    }
++
++    public void substraction(int num1, int num2) {
++        int subResult = num1 - num2;
++        System.out.println("Result of substraction is: " + subResult);
++    }
++
++    public void mult(int num1, int num2) {
++        int multResult = num1 * num2;
++        System.out.println("Result of multiplication is: " + multResult);
++    }
++
++    public void div(int num1, int num2) {
++        int divResult = num1 / num2;
++        System.out.println("Result of division is: " + divResult);
++    }
++}
+\ No newline at end of file
+Index: src/homework6/User.java
+===================================================================
+diff --git a/src/homework6/User.java b/src/homework6/User.java
+new file mode 100644
+--- /dev/null	
++++ b/src/homework6/User.java	
+@@ -0,0 +1,69 @@
++package homework6;
++public class User {
++    private String userName;
++    private int age;
++    private String email;
++    private boolean isActive;
++    public double amountSpentMoney;
++    private String password;
++
++    // Setter
++    public void setName(String newName) {
++        this.userName = newName;
++    }
++    // Getter
++    public String getName() {
++        return userName;
++    }
++    public void setAge(int age){
++        if (age >= 18) {
++            this.age = age;
++        } else {
++            System.out.println("Person should be older than 18!");
++        }
++    }
++    public int getAge() {
++        return age;
++    }
++    public void setEmail(String email){
++        this.email = email;
++    }
++    public String getEmail() {
++        return email;
++    }
++    public void setIsActive(boolean isActive){
++        this.isActive = isActive;
++    }
++    public boolean getIsActive() {
++        return isActive=true;
++    }
++    public void setPassword(String password){
++        if (password.length()>8){
++            this.password =password;
++        } else {
++            System.out.println("Minimum password length is 8 simbols");
++        }
++    }
++    public String getPassword() {
++        return password;
++    }
++
++    //сonstructors
++    public User(){
++    }
++    public User(String userName){
++    }
++    public User(String userName, String password){
++    }
++    //виводить на яку суму була здійснена покупка
++// та додає цю вартість до глобальної змінної amountSpentMoney
++    public void makePurchase(double purchasePrice){
++        System.out.println("The amount of this purchase is "+purchasePrice);
++        amountSpentMoney=amountSpentMoney+purchasePrice;
++    }
++    public void printTotalAmountOfSpentMoney(){
++        System.out.println("The total spent amount of money is "+amountSpentMoney);
++    }
++}
++
++
+Index: src/homework6/CalculatorMain.java
+===================================================================
+diff --git a/src/homework6/CalculatorMain.java b/src/homework6/CalculatorMain.java
+new file mode 100644
+--- /dev/null	
++++ b/src/homework6/CalculatorMain.java	
+@@ -0,0 +1,12 @@
++package homework6;
++
++public class CalculatorMain {
++    public static void main(String[] args) {
++        Calculator calculator = new Calculator();
++        calculator.sum(10,20);
++        calculator.substraction(30,20);
++        calculator.mult(5,20);
++        calculator.div(50,10);
++        System.out.printf("You are welcome!");
++    }
++}
+\ No newline at end of file
+Index: src/homework6/CheckUser.java
+===================================================================
+diff --git a/src/homework6/CheckUser.java b/src/homework6/CheckUser.java
+new file mode 100644
+--- /dev/null	
++++ b/src/homework6/CheckUser.java	
+@@ -0,0 +1,32 @@
++package homework6;
++
++public class CheckUser {
++    public static void main(String[] args) {
++
++        User User1 = new User();
++        User1.setName("TestUser1");
++        User1.setAge(20);
++        User1.setEmail("testemail1");
++        User1.getIsActive();
++        User1.setPassword("TestPassword1");
++
++        System.out.println("Name: "+User1.getName()+ " Age: " + User1.getAge()+ " email: "+ User1.getEmail()+ " Status "+ User1.getIsActive());
++        User1.makePurchase(20);
++        User1.makePurchase(30);
++        User1.printTotalAmountOfSpentMoney();
++
++
++        User User2 = new User("TestUser2", "TestPassword2");
++        User2.setName("TestUser2");
++        User2.setPassword("TestPassword2");
++        User2.setAge(30);
++        User2.setEmail("testemail2");
++        User2.setIsActive(true);
++        User2.setPassword("TestPassword2");
++        System.out.println("Name: "+User2.getName()+ " Age: " + User2.getAge()+ " email: "+ User2.getEmail()+ " Status "+ User2.getIsActive());
++        User2.makePurchase(10);
++        User2.makePurchase(150);
++        User2.printTotalAmountOfSpentMoney();
++
++       }
++}
