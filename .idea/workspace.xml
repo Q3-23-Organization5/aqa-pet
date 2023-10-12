@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="856029eb-2190-46ad-8a48-7758cb6b6ef2" name="Changes" comment="homework3">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aqa-pet/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aqa-pet/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "OlenaMaliuhina"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3d445f9f-3716-4aad-9851-6a5f77852fd1" />
+        <option name="url" value="https://github.com/Q3-23-Organization5/aqa-pet" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2WGguYjN9TMMebLaKffTPYnEqsS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "hw3",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\omali\IdeaProjects\aqa-pet\.idea" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="856029eb-2190-46ad-8a48-7758cb6b6ef2" name="Changes" comment="" />
+      <created>1696364554781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696364554781</updated>
+    </task>
+    <task id="LOCAL-00001" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696834533139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696834533140</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696834661549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696834661549</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696834787724</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696834787724</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696834825355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696834825355</updated>
+    </task>
+    <task id="LOCAL-00005" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696849324203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696849324203</updated>
+    </task>
+    <task id="LOCAL-00006" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696849393453</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696849393453</updated>
+    </task>
+    <task id="LOCAL-00007" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696849496173</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696849496173</updated>
+    </task>
+    <task id="LOCAL-00008" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696850763321</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696850763321</updated>
+    </task>
+    <task id="LOCAL-00009" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696850796572</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696850796572</updated>
+    </task>
+    <task id="LOCAL-00010" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696850850106</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696850850106</updated>
+    </task>
+    <task id="LOCAL-00011" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696852485188</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696852485188</updated>
+    </task>
+    <task id="LOCAL-00012" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696853348418</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696853348418</updated>
+    </task>
+    <task id="LOCAL-00013" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696855042708</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696855042708</updated>
+    </task>
+    <task id="LOCAL-00014" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696855252006</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696855252007</updated>
+    </task>
+    <task id="LOCAL-00015" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696855630928</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696855630928</updated>
+    </task>
+    <task id="LOCAL-00016" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696855803792</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696855803792</updated>
+    </task>
+    <task id="LOCAL-00017" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696855853444</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696855853444</updated>
+    </task>
+    <task id="LOCAL-00018" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696855866118</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696855866118</updated>
+    </task>
+    <task id="LOCAL-00019" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696859185141</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1696859185142</updated>
+    </task>
+    <task id="LOCAL-00020" summary="homework3">
+      <option name="closed" value="true" />
+      <created>1696878311885</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1696878311889</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="homework3" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework3" />
+  </component>
+</project>
